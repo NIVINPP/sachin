@@ -1,0 +1,16 @@
+a{
+    float: left;
+    padding: 30px;
+    transition: 0.5s;
+}
+a:hover{
+
+    transform: scale(1.3);
+}
+h1{
+    transition: 0.5s;
+}
+h1:hover{
+
+    transform: scale(1.2);
+}
